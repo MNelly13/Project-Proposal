@@ -1,2 +1,2 @@
 # Project-Proposal
-Tickets selling Ecommerce business proposal
+Tickets selling Ecommerce project proposal
